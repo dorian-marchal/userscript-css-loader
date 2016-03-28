@@ -1,0 +1,16 @@
+{
+    "name": "userscript-css-loader",
+    "version": "0.1.1",
+    "author": "Dorian Marchal",
+    "description": "webpack css loader for userscripts",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:dorian-marchal/userscript-css-loader.git"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ]
+}
